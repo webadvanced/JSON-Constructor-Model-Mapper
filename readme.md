@@ -5,7 +5,7 @@
 ```javascript
 .modelTo( ConstructureType[, mappingHandler]);
 ```
-*Valid extension on:*
+*Valid extension for:*
 
 - Array 
 - Object
